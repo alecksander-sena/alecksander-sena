@@ -65,7 +65,7 @@ Exploração e aprendizado sobre **Big Data e Cloud Computing** com **Azure e Da
 - [Databricks Azure Journey](https://github.com/alecksander-sena/databricks-azure-journey)  
 
 💼 **LinkedIn:** [linkedin.com/in/alecksandersena](https://www.linkedin.com/in/alecksandersena)  
-📫 **E-mail:** *(adicione aqui seu e-mail profissional)*  
+📫 **E-mail:** *alecksander.sena@gmail.com*  
 
 ---
 
