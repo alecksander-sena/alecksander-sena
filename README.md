@@ -52,7 +52,7 @@ Exploração e aprendizado sobre **Big Data e Cloud Computing** com **Azure e Da
 ![Alecksander GitHub Stats](https://github-readme-stats.vercel.app/api?username=alecksander-sena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecksander-sena&layout=compact&theme=tokyonight&hide_border=true)
 
-![Snake animation](https://github.com/alecksander-sena/alecksander-sena/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alecksander-sena/alecksander-sena/blob/output/snake.svg)
 
 </div>
 
