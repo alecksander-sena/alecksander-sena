@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/alecksander-sena/alecksander-sena/blob/main/banner-github.png" alt="Alecksander De Sena Silva - Desenvolvedor Web | Aprendendo com IA" width="100%">
+</p>
+
+<br>
+
 # 👋 Olá, eu sou o Alecksander De Sena Silva  
 
 🎯 **Desenvolvedor em formação** em transição de carreira, apaixonado por tecnologia e pelo poder da IA em acelerar o aprendizado e o desenvolvimento de soluções reais.  
@@ -26,6 +32,7 @@ Atualmente estudo **HTML**, **CSS** e **JavaScript**, e já desenvolvi um **PWA 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+<br>
 
 ---
 
@@ -49,8 +56,10 @@ Exploração e aprendizado sobre **Big Data e Cloud Computing** com **Azure e Da
 
 <div align="center">
 
-![Alecksander GitHub Stats](https://github-readme-stats.vercel.app/api?username=alecksander-sena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecksander-sena&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/alecksander-sena">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alecksander-sena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecksander-sena&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
 ![Snake animation](https://github.com/alecksander-sena/alecksander-sena/blob/output/snake.svg)
 
@@ -74,6 +83,10 @@ Exploração e aprendizado sobre **Big Data e Cloud Computing** com **Azure e Da
 - 🌱 Acredito que aprender é um processo contínuo — e a **IA é a melhor parceira nessa jornada**  
 - ⚡ Tenho facilidade em entender processos e encontrar soluções criativas  
 - 🎯 Busco evoluir para me tornar um desenvolvedor completo e contribuir com projetos de impacto  
+
+---
+
+⭐️ **Se gostou do que viu, não esqueça de deixar uma estrela nos repositórios!**
 
 ---
 
