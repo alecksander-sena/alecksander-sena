@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/alecksander-sena/alecksander-sena/blob/main/banner-github2.png" alt="Alecksander De Sena Silva - Desenvolvedor Web | Aprendendo com IA" width="100%">
+</p>
 
 <br>
 
