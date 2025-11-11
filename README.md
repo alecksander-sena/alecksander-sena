@@ -38,11 +38,11 @@ Atualmente estudo **HTML**, **CSS** e **JavaScript**, e já desenvolvi um **PWA 
 
 ## 💼 Projetos em Destaque
 
-### 🍔 [**Request Easy - PWA de Pedidos para Lanchonete**](https://github.com/alecksander-sena/request-easy)
+### 🍔 [**BOM SABOR - PWA de Pedidos para Lanchonete**](https://github.com/alecksander-sena/Portfolio-PWA-Lanchonete)
 Aplicativo web progressivo que permite aos clientes montar pedidos e enviá-los direto para o WhatsApp do dono da lanchonete.  
-🔗 [Acesse a demonstração online](https://requesteasy.vercel.app/lojas)  
+🔗 [Acesse a demonstração online](https://bomsaborxx.vercel.app/)  
 🛠️ Tecnologias: HTML | CSS | JavaScript | PWA  
-📦 Status: em desenvolvimento (atualmente ajustando painel admin)
+📦 Status: em desenvolvimento (atualmente ajustando IMAGENS)
 
 ---
 
