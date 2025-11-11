@@ -70,7 +70,7 @@ Exploração e aprendizado sobre **Big Data e Cloud Computing** com **Azure e Da
 ## 🌐 Contatos e Portfólio
 
 📁 **Portfólio no GitHub:**  
-- [Request Easy](https://github.com/alecksander-sena/request-easy)  
+- [PWA BOM SABOR](https://github.com/alecksander-sena/Portfolio-PWA-Lanchonete)  
 - [Databricks Azure Journey](https://github.com/alecksander-sena/databricks-azure-journey)  
 
 💼 **LinkedIn:** [linkedin.com/in/alecksandersena](https://www.linkedin.com/in/alecksandersena)  
